@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "b3792fe716526e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "9842e6ff6ee99b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a1ce4d799bc0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-27-pytorch-deep-java-learning.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d02ce38eaa80647c",
+    "type": "split",
+    "children": [
+      {
+        "id": "295272d8f13c28a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c056e3e194cd5976",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc2a62375caaaf96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4395607ff63b68e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f8031f2529c56f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ba2d91f969aaf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7806a294eda3359f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-05-27-pytorch-deep-java-learning.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3927581e5413f7bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-05-27-pytorch-deep-java-learning.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "705870fb0544118c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb45ec85ca74c5bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-05-27-pytorch-deep-java-learning.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73a1ce4d799bc0cb",
+  "lastOpenFiles": [
+    "_posts/2021-03-08-blog-post-title-from-file-name.md",
+    "_posts/2024-05-27-pytorch-deep-java-learning.md.md"
+  ]
+}
