@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is where I put my articles and blogs
 
-Maybe say a some things about yourself.
+I am an intuitive person with lots on my mind
 
-Or maybe what you plan to blog about.
+This blog is meant to be a repitoire to unload what goes on my mind. Don't be surprised if I forget about what I wrote; that's what blogging is at the first place.
